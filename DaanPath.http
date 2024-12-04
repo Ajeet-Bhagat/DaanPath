@@ -1,0 +1,6 @@
+@DaanPath_HostAddress = http://localhost:5249
+
+GET {{DaanPath_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
